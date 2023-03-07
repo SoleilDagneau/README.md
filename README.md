@@ -25,6 +25,6 @@
   <a href="https://github.com/search?q=user%3ASoleilDagneau+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
 </p>
 <p>
-<a href="#"><img alt="Visitors Counter" src="https://visitor-badge.glitch.me/badge?page_id=soleildagneau&style=for-the-badge"></a>
+<a href="#"><img alt="Visitors Counter" src="https://visitor-badge.glitch.me/badge?page_id=SoleilDagneau&style=for-the-badge"></a>
 </p>
 
