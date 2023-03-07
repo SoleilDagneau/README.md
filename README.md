@@ -1,4 +1,4 @@
-<h2 align="center"> :raising_hand: Hi! I'm Soleil Dagneau</h2>
+<h2 align="center"> Hi! I'm Soleil Dagneau</h2>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/soleildagneau/">
