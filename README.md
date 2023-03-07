@@ -11,14 +11,14 @@
   <br><br>
 </p>
 
-<h2 align='left'> 🚀 Quick Stats </h2>
+<h2 align='left'> 🥵 Quick Stats </h2>
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=SoleilDagneau&show_icons=true&theme=radical&hide=contribs' height='150"'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SoleilDagneau&layout=compact&theme=radical' height='150"'>
 </div>
 <br>
 
-<h2 align='left'> 🔨 Technologies & Tools </h2>
+<h2 align='left'> 😎 Technologies & Tools </h2>
 <p>
 <br>
 <p>
